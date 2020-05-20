@@ -12,6 +12,10 @@ namespace controlVersionesPracticaAAR
 {
     public partial class Form1 : Form
     {
+        // 20052020 
+        //En esta clase se inicializa el formulario de la aplicación 
+
+
         public Form1()
         {
             InitializeComponent();
