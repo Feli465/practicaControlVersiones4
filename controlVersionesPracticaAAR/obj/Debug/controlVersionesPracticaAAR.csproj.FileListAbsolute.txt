@@ -1,0 +1,9 @@
+C:\Users\Antonio\Source\Repos\Feli465\practicaControlVersiones4\controlVersionesPracticaAAR\bin\Debug\controlVersionesPracticaAAR.exe.config
+C:\Users\Antonio\Source\Repos\Feli465\practicaControlVersiones4\controlVersionesPracticaAAR\bin\Debug\controlVersionesPracticaAAR.exe
+C:\Users\Antonio\Source\Repos\Feli465\practicaControlVersiones4\controlVersionesPracticaAAR\bin\Debug\controlVersionesPracticaAAR.pdb
+C:\Users\Antonio\Source\Repos\Feli465\practicaControlVersiones4\controlVersionesPracticaAAR\obj\Debug\controlVersionesPracticaAAR.csprojAssemblyReference.cache
+C:\Users\Antonio\Source\Repos\Feli465\practicaControlVersiones4\controlVersionesPracticaAAR\obj\Debug\controlVersionesPracticaAAR.Form1.resources
+C:\Users\Antonio\Source\Repos\Feli465\practicaControlVersiones4\controlVersionesPracticaAAR\obj\Debug\controlVersionesPracticaAAR.Properties.Resources.resources
+C:\Users\Antonio\Source\Repos\Feli465\practicaControlVersiones4\controlVersionesPracticaAAR\obj\Debug\controlVersionesPracticaAAR.csproj.GenerateResource.cache
+C:\Users\Antonio\Source\Repos\Feli465\practicaControlVersiones4\controlVersionesPracticaAAR\obj\Debug\controlVersionesPracticaAAR.exe
+C:\Users\Antonio\Source\Repos\Feli465\practicaControlVersiones4\controlVersionesPracticaAAR\obj\Debug\controlVersionesPracticaAAR.pdb
