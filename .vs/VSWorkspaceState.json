@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\controlVersionesPracticaAAR",
-    "\\controlVersionesPracticaAAR\\Properties"
+    "\\controlVersionesPracticaAAR\\obj\\Debug"
   ],
-  "SelectedNode": "\\controlVersionesPracticaAAR\\Form1.cs",
+  "SelectedNode": "\\controlVersionesPracticaAAR\\Form1.resx",
   "PreviewInSolutionExplorer": false
 }
