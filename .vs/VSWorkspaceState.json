@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\controlVersionesPracticaAAR",
-    "\\controlVersionesPracticaAAR\\obj\\Debug"
+    "\\Formulario",
+    "\\WindowsFormsApp1"
   ],
-  "SelectedNode": "\\controlVersionesPracticaAAR\\Form1.resx",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\Formulario\\Form1.cs",
+  "PreviewInSolutionExplorer": true
 }

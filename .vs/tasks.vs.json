@@ -5,6 +5,11 @@
       "taskName": "tarea-Form1",
       "appliesTo": "controlVersionesPracticaAAR/Form1.cs",
       "type": "launch"
+    },
+    {
+      "taskName": "tarea-Form1",
+      "appliesTo": "Formulario/Form1.cs",
+      "type": "launch"
     }
   ]
 }
